@@ -1,4 +1,4 @@
-# QR Phishing Detector Backend (FastAPI)
+# QR Phish Difa Backend - FastAPI
 
 This backend analyzes URLs extracted from QR codes and returns a phishing risk score.
 It can also fuse a QR-image CV model score (benign vs malicious QR visuals).
